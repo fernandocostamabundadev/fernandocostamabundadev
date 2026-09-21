@@ -1,41 +1,73 @@
-<h1 align="center">👋 Olá, eu sou Fernando C. Mabunda</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full Stack Developer | JavaScript • html5 • css3 • typescript • Node.js • PostgreSQL
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Fernando%20C.%20Mabunda&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="mailto:f0083357@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/fernando-mabunda/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/fernandocostamabundadev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+em+forma%C3%A7%C3%A3o;JavaScript+%7C+Node.js+%7C+PostgreSQL;Construindo+projetos+reais+todos+os+dias;Sempre+aprendendo%2C+sempre+evoluindo" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🧠 Sobre mim
+<a href="mailto:f0083357@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fernando-mabunda/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/fernandocostamabundadev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Sou **Desenvolvedor Full Stack em formação**, apaixonado por tecnologia e pelo desenvolvimento de aplicações web.
+<br/><br/>
 
-Meu foco está na construção de aplicações **modernas, responsivas, seguras e escaláveis**, trabalhando tanto no frontend quanto no backend.
+<img src="https://komarev.com/ghpvc/?username=fernandocostamabundadev&color=1f6feb&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES" />
+<img src="https://img.shields.io/github/followers/fernandocostamabundadev?style=for-the-badge&color=1f6feb&label=SEGUIDORES" />
+<img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20oportunidades-2ea043?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre mim
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Sou **Desenvolvedor Full Stack em formação**, apaixonado por tecnologia e pela construção de aplicações web **modernas, responsivas, seguras e escaláveis**.
+
+Trabalho tanto no **frontend** quanto no **backend**, com foco em escrever código limpo, organizado e preparado para produção.
 
 Tenho interesse especial por **arquitetura de software, APIs REST, bancos de dados, integração entre sistemas e boas práticas de desenvolvimento**.
 
-Atualmente, estou aprofundando meus conhecimentos no ecossistema JavaScript e construindo projetos completos para transformar conhecimento teórico em experiência prática.
+Atualmente estou aprofundando meus conhecimentos no **ecossistema JavaScript** e construindo **projetos completos** para transformar teoria em experiência prática.
 
-### 🎯 Atualmente estou focado em
+<br clear="right"/>
 
-* Desenvolvimento de interfaces modernas com **html5, css3, js**
-* Desenvolvimento de APIs REST com **Node.js e Express**
-* Construção de aplicações Full Stack
-* Modelagem e otimização de bancos de dados
-* Arquitetura e organização de projetos
-* Git e GitHub
+---
+
+## 🎯 Atualmente focado em
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Desenvolvimento
+- 🎨 Interfaces modernas com **HTML5, CSS3 e JS**
+- 🔌 APIs REST com **Node.js + Express**
+- 🧩 Aplicações **Full Stack** completas
+- 🗄️ Modelagem e otimização de **bancos de dados**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Engenharia
+- 🏗️ Arquitetura e organização de projetos
+- 📐 Clean Code & Design Patterns
+- 🔀 Git, GitHub & Versionamento
+- 🚀 Deploy e ambientes de produção
+
+</td>
+</tr>
+</table>
 
 ---
 
